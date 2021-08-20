@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rendering/static/css/main.1f2dba0f.chunk.css",
+    "main.js": "/rendering/static/js/main.5dc0a6cd.chunk.js",
+    "main.js.map": "/rendering/static/js/main.5dc0a6cd.chunk.js.map",
+    "runtime-main.js": "/rendering/static/js/runtime-main.75ae9888.js",
+    "runtime-main.js.map": "/rendering/static/js/runtime-main.75ae9888.js.map",
+    "static/js/2.cc84e1bf.chunk.js": "/rendering/static/js/2.cc84e1bf.chunk.js",
+    "static/js/2.cc84e1bf.chunk.js.map": "/rendering/static/js/2.cc84e1bf.chunk.js.map",
+    "index.html": "/rendering/index.html",
+    "static/css/main.1f2dba0f.chunk.css.map": "/rendering/static/css/main.1f2dba0f.chunk.css.map",
+    "static/js/2.cc84e1bf.chunk.js.LICENSE.txt": "/rendering/static/js/2.cc84e1bf.chunk.js.LICENSE.txt",
+    "static/media/1.738878c3.jpg": "/rendering/static/media/1.738878c3.jpg",
+    "static/media/avs.eb84905b.jpg": "/rendering/static/media/avs.eb84905b.jpg",
+    "static/media/brazil.4e06f2e1.jpg": "/rendering/static/media/brazil.4e06f2e1.jpg",
+    "static/media/kanada.1f0cef5e.jpg": "/rendering/static/media/kanada.1f0cef5e.jpg",
+    "static/media/kazak.3fa2a7b5.jpg": "/rendering/static/media/kazak.3fa2a7b5.jpg",
+    "static/media/keni.91f22eba.jpg": "/rendering/static/media/keni.91f22eba.jpg",
+    "static/media/mexico.6bd43b36.png": "/rendering/static/media/mexico.6bd43b36.png",
+    "static/media/russia.0cbb989e.jpg": "/rendering/static/media/russia.0cbb989e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ae9888.js",
+    "static/js/2.cc84e1bf.chunk.js",
+    "static/css/main.1f2dba0f.chunk.css",
+    "static/js/main.5dc0a6cd.chunk.js"
+  ]
+}
